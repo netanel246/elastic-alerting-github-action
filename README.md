@@ -1,0 +1,1 @@
+# elastic-alerting-github-action
